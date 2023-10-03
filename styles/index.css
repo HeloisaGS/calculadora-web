@@ -1,0 +1,26 @@
+.calculadora {
+  width: 200px;
+  background-color: #cacaca;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+#display {
+  background-color: #C1D798;
+  width: 175px;
+  border: none;
+  height: 45px;
+  border-radius: 5px;
+  margin-bottom: 5px;
+}
+
+.calculadora div {
+  display: flex;
+  align-content: space-around;
+}
+.calculadora button {
+  margin: 3px;
+}
+.calculadora i {
+  font-size: 12px;
+}/*# sourceMappingURL=index.css.map */
